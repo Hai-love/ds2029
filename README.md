@@ -12,16 +12,19 @@
 * Importance of Data Visualization
 ## 4. Supervised Learning
 * [Introduction to Supervised Learning](https://cswiki.net/w/Supervised_Learning)
+* [Regression](https://cswiki.net/w/Regression_Algorithm) vs. [Classification](https://cswiki.net/w/Classification_Algorithm)
 * [Linear Regression](https://cswiki.net/w/Linear_Regression)
 * [Decision Trees](https://cswiki.net/w/Decision_Tree)
 * [K-Nearest Neighbors (KNN)](https://cswiki.net/w/K-Nearest_Neighbor)
 * [Support Vector Machines (SVM)](https://cswiki.net/w/Support_Vector_Machine)
 * [Naive Bayes Classifier](https://cswiki.net/w/Naive_Bayes)
-* [Regression](https://cswiki.net/w/Regression_Algorithm) vs. [Classification](https://cswiki.net/w/Classification_Algorithm)
+* [Random Forest](https://cswiki.net/w/Random_Forest)
 ## 5. Unsupervised Learning
-* Introduction to Unsupervised Learning
-* Clustering: K-Means, Hierarchical
-* Dimensionality Reduction: PCA
+* [Introduction to Unsupervised Learning](https://cswiki.net/w/Unsupervised_Learning)
+* [Clustering](https://cswiki.net/w/Clustering_Algorithm)
+  * [K-Means](https://cswiki.net/w/K-Means)
+  * [Hierarchical](https://cswiki.net/w/Hierarchical_Clustering)
+* [Dimensionality Reduction](https://cswiki.net/w/Dimensionality_Reduction): PCA
 * Association Rule Learning
 ## 6. Causality in Data Science
 * Understanding Causality vs. Correlation
@@ -32,10 +35,16 @@
 * Building a Simple Recommender System
 * Challenges and Applications in Business
 ## 8. Model Evaluation and Selection
-* Importance of Model Evaluation
-* Cross-Validation
-* Evaluation Metrics (Accuracy, Precision, Recall)
-* Overfitting vs. Underfitting
+* [Importance of Model Evaluation](https://cswiki.net/w/Model_Evaluation)
+* [Cross-Validation](https://cswiki.net/w/Cross-Validation)
+* Evaluation Metrics
+  * [Accuracy](https://cswiki.net/w/Accuracy_(Data_Science))
+  * [Precision](https://cswiki.net/w/Precision_(Data_Science))
+  * [Recall](https://cswiki.net/w/Recall_(Data_Science))
+  * [ROC](https://cswiki.net/w/ROC_Curve)-[AUC](https://cswiki.net/w/Area_Under_the_Curve)
+  * [F1-Score](https://cswiki.net/w/F1_Score)
+  * [Lift](https://cswiki.net/w/Lift_(Data_Science))
+* [Overfitting](https://cswiki.net/w/Overfitting) vs. [Underfitting](https://cswiki.net/w/Underfitting)
 ## 9. Model Tuning
 * Hyperparameter Tuning
 * Grid Search vs. Random Search
